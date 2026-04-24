@@ -1,0 +1,1 @@
+cargo espflash flash --release --partition-table partitions.csv && cargo espflash monitor
